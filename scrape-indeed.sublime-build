@@ -1,0 +1,5 @@
+{
+	// "shell_cmd": "make",
+	"cmd": ["node", "$file"],
+	"selector": "scrape-indeed.js"
+}

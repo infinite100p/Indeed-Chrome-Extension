@@ -1,0 +1,11 @@
+{
+  "name": "indeed_web_scraper",
+  "version": "1.0.0",
+  "description": "Scraping Indeed Web Job Search Site",
+  "main": "scrape-indeed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiramisu",
+  "license": "ISC"
+}
